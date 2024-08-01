@@ -43,7 +43,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: Crow_15
+    path: CrowCaw
     classID: 1
     script: {fileID: 0}
     flags: 0
@@ -83,7 +83,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 3034697461
+      path: 2209671433
       attribute: 2086281974
       script: {fileID: 0}
       typeID: 1
@@ -158,7 +158,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_IsActive
-    path: Crow_15
+    path: CrowCaw
     classID: 1
     script: {fileID: 0}
     flags: 0
